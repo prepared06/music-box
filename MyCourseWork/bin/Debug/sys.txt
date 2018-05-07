@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfSong xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Song>
+    <Name>Holy Diver (Dio cover).mp3</Name>
+    <Performer>Killswitch Engage </Performer>
+    <Path>D:\Enjoy\music\Killswitch Engage\Killswitch Engage - Holy Diver (Dio cover).mp3</Path>
+    <Overheard>12309123</Overheard>
+  </Song>
+  <Song>
+    <Name>This Fire Burns.mp3</Name>
+    <Performer>Killswitch Engage </Performer>
+    <Path>D:\Enjoy\music\Killswitch Engage\Killswitch Engage - This Fire Burns.mp3</Path>
+    <Overheard>123123</Overheard>
+  </Song>
+  <Song>
+    <Name>Revolution Is My Name.mp3</Name>
+    <Performer>Pantera </Performer>
+    <Path>D:\Enjoy\music\Pantera\Pantera - Revolution Is My Name.mp3</Path>
+    <Overheard>100500</Overheard>
+  </Song>
+  <Song>
+    <Name>Californication.mp3</Name>
+    <Performer>Red Hot Chili Peppers </Performer>
+    <Path>D:\Enjoy\music\red hot chulli peppers\Red Hot Chili Peppers - Californication.mp3</Path>
+    <Overheard>123123</Overheard>
+  </Song>
+  <Song>
+    <Name>All I Want.mp3</Name>
+    <Performer>The Offspring </Performer>
+    <Path>D:\Enjoy\music\Другое\The Offspring - All I Want.mp3</Path>
+    <Overheard>999</Overheard>
+  </Song>
+  <Song>
+    <Name>Skyrim - Dovakin1.mp3</Name>
+    <Performer>Jeremy Soul</Performer>
+    <Path>D:\Enjoy\music\Другое\Skyrim - Dovakin1.mp3</Path>
+    <Overheard>1212122277</Overheard>
+  </Song>
+  <Song>
+    <Name>Chop Suey.mp3</Name>
+    <Performer>SOAD</Performer>
+    <Path>D:\Enjoy\music\SOaD\SOAD - Chop Suey.mp3</Path>
+    <Overheard>9091234</Overheard>
+  </Song>
+</ArrayOfSong>

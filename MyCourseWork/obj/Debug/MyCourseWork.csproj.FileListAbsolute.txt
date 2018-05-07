@@ -1,0 +1,55 @@
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe.config
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csprojResolveAssemblyReference.cache
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csproj.ResolveComReference.cache
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.ask_form.resources
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Form1.resources
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Properties.Resources.resources
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csproj.GenerateResource.Cache
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.pdb
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.exe
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.pdb
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.direct.resources
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.top_five.resources
+C:\Users\Kurt Cobain\Documents\Visual Studio 2012\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.search.resources
+D:\Універ\ООП\Костя\MyCourseWork\bin\Debug\MyCourseWork.exe.config
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\Interop.WMPLib.dll
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\AxInterop.WMPLib.dll
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.csproj.ResolveComReference.cache
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.exe
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.pdb
+D:\Універ\ООП\Костя\MyCourseWork\bin\Debug\MyCourseWork.exe
+D:\Універ\ООП\Костя\MyCourseWork\bin\Debug\MyCourseWork.pdb
+D:\Універ\ООП\Костя\MyCourseWork\bin\Debug\Interop.WMPLib.dll
+D:\Універ\ООП\Костя\MyCourseWork\bin\Debug\AxInterop.WMPLib.dll
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.csprojResolveAssemblyReference.cache
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.ask_form.resources
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.direct.resources
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.Form1.resources
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.Properties.Resources.resources
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.search.resources
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.top_five.resources
+D:\Універ\ООП\Костя\MyCourseWork\obj\Debug\MyCourseWork.csproj.GenerateResource.Cache
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe.config
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.pdb
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\bin\Debug\Interop.WMPLib.dll
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\bin\Debug\AxInterop.WMPLib.dll
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csprojResolveAssemblyReference.cache
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\Interop.WMPLib.dll
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\AxInterop.WMPLib.dll
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csproj.ResolveComReference.cache
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.ask_form.resources
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.direct.resources
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Form1.resources
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.Properties.Resources.resources
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.search.resources
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.top_five.resources
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csproj.GenerateResource.cache
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csproj.CoreCompileInputs.cache
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.exe
+D:\Enjoy\Projects\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.pdb
